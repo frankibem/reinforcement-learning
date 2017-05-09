@@ -1,5 +1,5 @@
 # Reinforcement Learning
-This repository is a ongoing culmination of my efforts to understand the various algorithms used to train reinforcement learning (RL) agents to perform various tasks. It is meant to be gentle guide for others who may wish to explore the world of RL as well. Following the content in the order listed below should be the fastest way to get up to speed.
+This repository is a ongoing culmination of my efforts to understand the various algorithms used to train reinforcement learning (RL) agents to perform various tasks. It is meant to be gentle guide for others who may wish to explore the world of RL as well. Following the content in the order listed below should be the fastest way to get up to speed. Once done, see [here](https://github.com/frankibem/kung-fu-master for a medium scale project which combines several rl concepts to solve an interesting problem.
 
 ## Content
 ### 1. Bandits
